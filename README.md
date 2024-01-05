@@ -7,3 +7,27 @@ I have successfully completed an end-to-end project involving importing data int
 
 <img width="610" alt="image" src="https://github.com/GitBhupesh/Pizza-Sales-Analysis-Using-SQL-Power-BI/assets/112238078/8155e18e-dc9c-4e8d-84d2-d38d42701c18">
 
+### Insights-
+- Total Revenue
+- Average Order Value
+- Total Pizzas Sold
+- Total Orders
+- Average Pizzas Per Order
+- Daily Trend for Total Orders
+- Monthly Trend for Total Orders
+- Percentage of sales by pizza category
+- Percentage of sales by pizza size
+- Total pizza sold by pizza category
+- Top 5 Best Sellers by Revenue
+- Bottom 5 worst Sellers by Revenue
+
+
+
+
+
+
+
+
+
+
+
